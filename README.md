@@ -13,3 +13,5 @@ The result of the work is a smartphone app, developed in Ionic/Angular, that det
 ### VIDEO DEMO:
 https://www.youtube.com/watch?v=GPKONG1mJ90
 
+### WRITTEN DOCUMENT
+https://drive.google.com/file/d/1W9WNSWfAUw6QbGhV8i21iMjh5ElIAYnA/view?usp=sharing
