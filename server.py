@@ -212,4 +212,4 @@ def upload_file(status):
 
 
 if __name__ == '__main__':
-    app.run('193.170.63.37', 8080, debug=False)
+    app.run('127.0.0.1', 8080, debug=False)
