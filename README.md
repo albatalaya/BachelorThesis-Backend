@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=WKyUsdZbQ0Y
 
 ## Getting started
 ### Prerequisites
-Python, ffmpeg, ffprobe
+Python
 ### Server
 * Clone this repository: `git clone https://github.com/albatalaya/BachelorThesis-Backend.git`.
 * Install [ffmpeg](https://www.ffmpeg.org/) and copy/paste the ffmpeg.exe and ffprobe.exe in the same folder as the server.py
